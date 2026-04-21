@@ -68,7 +68,7 @@ An interactive Tableau dashboard was built to visualize:
 
 🔗 **Live Dashboard:** *(https://public.tableau.com/views/project_17768021043000/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)*  
 
-![Dashboard]
+![Dashboard.png]
 ---
 
 ## 🧾 Conclusion
