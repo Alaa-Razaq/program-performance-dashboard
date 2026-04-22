@@ -9,7 +9,7 @@
 - [Recommendations](#recommendations)  
 - [Conclusion](#conclusion)  
 - [Tools Used](#tools-used)  
-- [Author](#author)  
+
 
 ---
 
