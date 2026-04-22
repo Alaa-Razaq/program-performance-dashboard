@@ -93,8 +93,4 @@ These findings highlight the need for improved retention strategies, earlier par
 - Tableau Public  
 - Excel (Pivot Tables)  
 
----
-
-## 👤 Author  
-**Alaa Razaq**  
 
